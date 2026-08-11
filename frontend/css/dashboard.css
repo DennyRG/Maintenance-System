@@ -1,0 +1,17 @@
+.nav-link {
+    border-radius: 8px;
+    transition: background-color .3s ease;
+}
+
+.nav-link:hover{
+    background-color:  rgba(25, 75, 15, 15);
+}
+
+.card {
+    border: none;
+    border-radius: 0px;
+}
+
+.card h2{
+    font-weight: 700;
+}
